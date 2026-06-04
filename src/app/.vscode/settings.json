@@ -8,5 +8,11 @@
   "tailwindCSS.includeLanguages": {
     "typescript": "javascript",
     "typescriptreact": "javascript"
+  },
+  "[typescriptreact]": {
+    "editor.snippetSuggestions": "top"
+  },
+  "emmet.includeLanguages": {
+    "typescriptreact": "html"
   }
 }
